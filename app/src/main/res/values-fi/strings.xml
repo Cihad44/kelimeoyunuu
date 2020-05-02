@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sanahaku</string>
+    <string name="dialog_color_picker">Värinvalitsin</string>
+    <string name="please_wait">Odota</string>
+    <string name="pref_summary_gridsize">Rivien ja sarakkeiden ruudukon</string>
+    <string name="pref_summary_language">Valitse kieli sanalista</string>
+    <string name="pref_summary_line_color">Määrittää jos löytyy sana kynä väri on satunnainen tai sama</string>
+    <string name="pref_summary_num_words">Lukumäärä satunnaisia sanoja valita tietokannasta</string>
+    <string name="pref_summary_pencil_color">Vaihda lyijykynä väri</string>
+    <string name="pref_summary_pencil_corner">Neliö tai pyöristetty lyijykynä</string>
+    <string name="pref_summary_screen_lock">Pidä laite hereillä pelatessaan</string>
+    <string name="pref_title_gridsize">Peli koko</string>
+    <string name="pref_title_language">Kieli</string>
+    <string name="pref_title_line_color">Jatkuva lyijykynä väri</string>
+    <string name="pref_title_num_words">Satunnainen sanamäärä</string>
+    <string name="pref_title_pencil_color">Lyijykynä väri</string>
+    <string name="pref_title_pencil_corner">Pyöristetty lyijykynä</string>
+    <string name="press_color_to_apply">Paina väri soveltamaan</string>
+    <string name="pref_title_screen_lock">Pidä laite hereillä</string>
+    <string name="settings">Asetukset</string>
+    <string name="word_list">Sanoja</string>
+    <string name="intro_text">Tervetuloa sanoja haku peli. Pelin tavoitteena on löytää kaikki piilotetut sanat.</string>
+    <string name="pref_summary_allow_substring">Salli sana sanalla tai ei</string>
+    <string name="pref_title_allow_substring">Salli alimerkkijono</string>
+</resources>

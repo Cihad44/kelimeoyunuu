@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\chddy\\Desktop\\apricodee\\wordsearch\\codecanyon-12444203-word-search\\WordSearch - Android - Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chddy\\.gradle\\caches\\transforms-2\\files-2.1\\4de34232979cbe134bd28b81339a3afe\\core-1.0.0\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "2686",
+                        "endColumns": "100",
+                        "endOffsets": "2782"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chddy\\.gradle\\caches\\transforms-2\\files-2.1\\8332131f6675301b4c0f7ae3fe17e1e6\\play-services-basement-17.0.0\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "203",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "152",
+                        "endColumns": "203",
+                        "endOffsets": "351"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chddy\\Desktop\\apricodee\\wordsearch\\codecanyon-12444203-word-search\\WordSearch - Android - Studio\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,22,4,23,5,6,7,8,9,10,11,24,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,105,1568,166,1703,222,320,412,537,642,720,812,1796,909,970,1027,1103,1171,1237,1313,1387,1471,1523",
+                        "endColumns": "46,59,133,54,91,96,90,123,103,76,90,95,73,59,55,74,66,64,74,72,82,50,43",
+                        "endOffsets": "99,160,1697,216,1790,314,406,531,636,714,806,903,1865,964,1021,1097,1165,1231,1307,1381,1465,1517,1562"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,31,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,356,416,550,605,697,794,885,1009,1113,1190,1281,1377,1451,1511,1567,1642,1709,1774,1849,1922,2635,2787",
+                        "endColumns": "46,59,133,54,91,96,90,123,103,76,90,95,73,59,55,74,66,64,74,72,82,50,43",
+                        "endOffsets": "147,411,545,600,692,789,880,1004,1108,1185,1276,1372,1446,1506,1562,1637,1704,1769,1844,1917,2000,2681,2826"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chddy\\.gradle\\caches\\transforms-2\\files-2.1\\d1fbefcc4609c2cb9770f710459b30b1\\play-services-ads-19.1.0\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,270,398,465,531,613,732",
+                        "endColumns": "70,127,66,65,81,118,68",
+                        "endOffsets": "269,397,464,530,612,731,800"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2005,2080,2212,2283,2353,2439,2562",
+                        "endColumns": "74,131,70,69,85,122,72",
+                        "endOffsets": "2075,2207,2278,2348,2434,2557,2630"
+                    }
+                }
+            ]
+        }
+    ]
+}

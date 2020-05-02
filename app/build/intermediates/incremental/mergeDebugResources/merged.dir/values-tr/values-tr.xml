@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kelime Bulma</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string name="dialog_color_picker">Renk Seçici</string>
+    <string name="intro_text">Kelime avı oyununa hoşgeldiniz. Oyundaki amaç gizli kelimeleri bulmaktır.</string>
+    <string name="please_wait">Lütfen bekleyin</string>
+    <string name="pref_summary_allow_substring">Kelime içinde kelime olsun/olmasın</string>
+    <string name="pref_summary_gridsize">Oyundaki en ve boy</string>
+    <string name="pref_summary_language">Kelime listesi için dil seçin</string>
+    <string name="pref_summary_line_color">Bulunan kelimenin çizgi rengi rastgele mi yoksa sabit mi olsun</string>
+    <string name="pref_summary_num_words">Veritabanından rastgele seçilecek kelime sayısı</string>
+    <string name="pref_summary_pencil_color">Kalem rengini değiştir</string>
+    <string name="pref_summary_pencil_corner">Yuvarlak yada köşeli kalem çizgisi</string>
+    <string name="pref_summary_screen_lock">Oynarken cihazı uyanık tut</string>
+    <string name="pref_title_allow_substring">Kelime içinde kelime olsun</string>
+    <string name="pref_title_gridsize">Oyun boyutu</string>
+    <string name="pref_title_language">Dil</string>
+    <string name="pref_title_line_color">Sabit kalem rengi</string>
+    <string name="pref_title_num_words">Rastgele kelime sayısı</string>
+    <string name="pref_title_pencil_color">Kalem rengi</string>
+    <string name="pref_title_pencil_corner">Yuvarlak kalem çizgisi</string>
+    <string name="pref_title_screen_lock">Cihazı uyanık tut</string>
+    <string name="press_color_to_apply">Uygulamak için renge dokunun</string>
+    <string msgid="368094699078615544" name="s1">"Resmi kaydet"</string>
+    <string msgid="4550830452390689489" name="s2">"Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?"</string>
+    <string msgid="2435407834265420668" name="s3">"Kabul et"</string>
+    <string msgid="9167523597401839819" name="s4">"Reddet"</string>
+    <string msgid="1566682516266724847" name="s5">"Takvim etkinliği oluştur"</string>
+    <string msgid="5996672174517137271" name="s6">"Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?"</string>
+    <string msgid="7163549807207034258" name="s7">"Test Reklamı"</string>
+    <string name="settings">Ayarlar</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Kelimeler</string>
+</resources>

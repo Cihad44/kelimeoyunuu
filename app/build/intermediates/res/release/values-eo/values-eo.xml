@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values-eo/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Vorto Serĉo</string>
+    <string name="dialog_color_picker">Koloro Elektilo</string>
+    <string name="intro_text">Bonvenon al vorto serĉo ludo. Vortoj iros maldekstren, dekstren, supren, malsupren kaj diagonale. Letero uzebla pli ol unufoje.</string>
+    <string name="please_wait">Bonvolu atendi</string>
+    <string name="pref_summary_gridsize">Nombro de vicoj kaj kolumnoj sur la krado</string>
+    <string name="pref_summary_language">Elektu lingvon por vortlisto</string>
+    <string name="pref_summary_line_color">Determinas se trovita vorto krajono koloro estas hazarda aŭ sama</string>
+    <string name="pref_summary_num_words">Nombro de hazardaj vortoj al selekti el datumbazo</string>
+    <string name="pref_summary_pencil_color">Ŝanĝo krajono koloro</string>
+    <string name="pref_summary_pencil_corner">Kvadrataj aŭ rondaj krajono</string>
+    <string name="pref_summary_screen_lock">Konservu aparato veka dum ludado</string>
+    <string name="pref_title_gridsize">Ludo grandeco</string>
+    <string name="pref_title_language">Lingvo</string>
+    <string name="pref_title_line_color">Konstanta krajono koloro</string>
+    <string name="pref_title_num_words">Hazarda vorto grafo</string>
+    <string name="pref_title_pencil_color">Krajono koloro</string>
+    <string name="pref_title_pencil_corner">Rondoformaj krajono</string>
+    <string name="pref_title_screen_lock">Konservu aparato maldorma</string>
+    <string name="press_color_to_apply">Gazetaro sur Koloro apliki</string>
+    <string name="settings">Agordoj</string>
+    <string name="well_done">Gratulojn</string>
+    <string name="word_list">Vortlisto</string>
+</resources>

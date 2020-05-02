@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Slovo Vyhledávání</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Zkuste to prosím znovu."</string>
+    <string name="dialog_color_picker">Výběr Barev</string>
+    <string name="intro_text">Vítejte na slova hledání hru. Cílem hry je najít všechny skryté slova.</string>
+    <string name="please_wait">Prosím počkat</string>
+    <string name="pref_summary_allow_substring">Povolit slovo od slova, či nikoli</string>
+    <string name="pref_summary_gridsize">Počet řádků a sloupců na startovním roštu</string>
+    <string name="pref_summary_language">Volba jazyka pro seznamu slov</string>
+    <string name="pref_summary_line_color">Určuje, zda našel slovo tužka Barva je náhodné, nebo stejný</string>
+    <string name="pref_summary_num_words">Počet náhodných slov vybrat z databáze</string>
+    <string name="pref_summary_pencil_color">Změna tužka barva</string>
+    <string name="pref_summary_pencil_corner">Náměstí nebo zaoblené tužka</string>
+    <string name="pref_summary_screen_lock">Udržujte zařízení Probuďte se při hraní</string>
+    <string name="pref_title_allow_substring">Povolit podřetězec</string>
+    <string name="pref_title_gridsize">Rozměr desky</string>
+    <string name="pref_title_language">Jazyk</string>
+    <string name="pref_title_line_color">Konstantní tužka barva</string>
+    <string name="pref_title_num_words">Náhodné počet slov</string>
+    <string name="pref_title_pencil_color">tužka barva</string>
+    <string name="pref_title_pencil_corner">Zaoblené tužka</string>
+    <string name="pref_title_screen_lock">Bděte zařízení</string>
+    <string name="press_color_to_apply">Stiskněte Color platit</string>
+    <string msgid="368094699078615544" name="s1">"Uložení obrázku"</string>
+    <string msgid="4550830452390689489" name="s2">"Povolit reklamě, aby uložila obrázek do galerie fotek?"</string>
+    <string msgid="2435407834265420668" name="s3">"Přijmout"</string>
+    <string msgid="9167523597401839819" name="s4">"Odmítnout"</string>
+    <string msgid="1566682516266724847" name="s5">"Vytvoření události kalendáře"</string>
+    <string msgid="5996672174517137271" name="s6">"Povolit reklamě, aby vytvořila událost kalendáře?"</string>
+    <string msgid="7163549807207034258" name="s7">"Zkušební reklama"</string>
+    <string name="settings">Nastavení</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Slova</string>
+</resources>

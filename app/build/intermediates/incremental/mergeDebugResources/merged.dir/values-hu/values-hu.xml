@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Szó Keresése</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string name="dialog_color_picker">Szín-választó</string>
+    <string name="intro_text">Üdvözöljük a szavakat kereső játék. A cél a játék az, hogy megtalálja a rejtett szavakat.</string>
+    <string name="please_wait">Kérlek várj</string>
+    <string name="pref_summary_allow_substring">Hagyjuk szó szó vagy sem</string>
+    <string name="pref_summary_gridsize">Sorok és oszlopok a rajtrácson</string>
+    <string name="pref_summary_language">Válasszon nyelvet szóra lista</string>
+    <string name="pref_summary_line_color">Meghatározza, hogy talált szót ceruza szín véletlenszerűen, vagy ugyanazon</string>
+    <string name="pref_summary_num_words">Számú véletlen szó kiválasztásához az adatbázisból</string>
+    <string name="pref_summary_pencil_color">Változás ceruza színes</string>
+    <string name="pref_summary_pencil_corner">Szögletes vagy kerek ceruza</string>
+    <string name="pref_summary_screen_lock">Tartsa készülék ébren játék közben</string>
+    <string name="pref_title_allow_substring">Hagyjuk töredékszó</string>
+    <string name="pref_title_gridsize">Játék méret</string>
+    <string name="pref_title_language">Nyelv</string>
+    <string name="pref_title_line_color">Állandó ceruza színes</string>
+    <string name="pref_title_num_words">Véletlen szavak száma</string>
+    <string name="pref_title_pencil_color">Ceruza színes</string>
+    <string name="pref_title_pencil_corner">Lekerekített ceruza</string>
+    <string name="pref_title_screen_lock">Tartsa készülék ébren</string>
+    <string name="press_color_to_apply">Nyomja meg a Színes alkalmazni</string>
+    <string msgid="368094699078615544" name="s1">"Kép mentése"</string>
+    <string msgid="4550830452390689489" name="s2">"Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?"</string>
+    <string msgid="2435407834265420668" name="s3">"Elfogadás"</string>
+    <string msgid="9167523597401839819" name="s4">"Elutasítás"</string>
+    <string msgid="1566682516266724847" name="s5">"Naptáresemény létrehozása"</string>
+    <string msgid="5996672174517137271" name="s6">"Engedélyezi a hirdetés számára naptáresemény létrehozását?"</string>
+    <string msgid="7163549807207034258" name="s7">"Teszthirdetés"</string>
+    <string name="settings">Beállítások</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Szavak</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Szukanie Słowa</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
+    <string name="dialog_color_picker">Selektor Kolorów</string>
+    <string name="intro_text">Zapraszamy do wyszukiwania słowa gry. Celem gry jest znalezienie wszystkich ukrytych słów.</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="pref_summary_allow_substring">Pozwól słowo słowem, czy nie</string>
+    <string name="pref_summary_gridsize">Liczba wierszy i kolumn w siatce</string>
+    <string name="pref_summary_language">Wybierz język listy słów</string>
+    <string name="pref_summary_line_color">Określa, czy znaleźć słowo ołówek jest kolor losowo lub sam</string>
+    <string name="pref_summary_num_words">Liczba przypadkowych słów, aby wybrać z bazy danych</string>
+    <string name="pref_summary_pencil_color">Zmień kolor ołówek</string>
+    <string name="pref_summary_pencil_corner">Kwadratowe lub zaokrąglone ołówek</string>
+    <string name="pref_summary_screen_lock">Czuwajcie urządzenia podczas gry</string>
+    <string name="pref_title_allow_substring">Pozwól podciąg</string>
+    <string name="pref_title_gridsize">Rozmiar gry</string>
+    <string name="pref_title_language">Język</string>
+    <string name="pref_title_line_color">Stała kolor ołówek</string>
+    <string name="pref_title_num_words">Losowa liczba słów</string>
+    <string name="pref_title_pencil_color">Farbują</string>
+    <string name="pref_title_pencil_corner">Zaokrąglone ołówek</string>
+    <string name="pref_title_screen_lock">Czuwajcie urządzeń</string>
+    <string name="press_color_to_apply">Naciśnij, aby zastosować kolor</string>
+    <string msgid="368094699078615544" name="s1">"Zapisz obraz"</string>
+    <string msgid="4550830452390689489" name="s2">"Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?"</string>
+    <string msgid="2435407834265420668" name="s3">"Zaakceptuj"</string>
+    <string msgid="9167523597401839819" name="s4">"Odrzuć"</string>
+    <string msgid="1566682516266724847" name="s5">"Utwórz wydarzenie w kalendarzu"</string>
+    <string msgid="5996672174517137271" name="s6">"Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?"</string>
+    <string msgid="7163549807207034258" name="s7">"Reklama testowa"</string>
+    <string name="settings">Ustawienia</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Słowa</string>
+</resources>

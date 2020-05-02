@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recherche De Mot</string>
+    <string name="dialog_color_picker">Sélecteur de Couleurs</string>
+    <string name="please_wait">S\'il vous plaît, attendez</string>
+    <string name="pref_summary_gridsize">Nombre de rangées et de colonnes de la grille</string>
+    <string name="pref_summary_language">Sélectionnez la langue de liste de mots</string>
+    <string name="pref_summary_line_color">Détermine si trouvé couleur de crayon de mot est aléatoire ou même</string>
+    <string name="pref_summary_num_words">Nombre de mots aléatoires pour sélectionner la base de données</string>
+    <string name="pref_summary_pencil_color">Changement crayon de couleur</string>
+    <string name="pref_summary_pencil_corner">Crayon carré ou arrondi</string>
+    <string name="pref_summary_screen_lock">Tenir éveillé de l\'appareil tout en jouant</string>
+    <string name="pref_title_gridsize">Taille du jeu</string>
+    <string name="pref_title_language">Langue</string>
+    <string name="pref_title_line_color">Constant couleur crayon</string>
+    <string name="pref_title_num_words">Aléatoire nombre de mots</string>
+    <string name="pref_title_pencil_color">Crayon de couleur</string>
+    <string name="pref_title_pencil_corner">Crayon arrondi</string>
+    <string name="pref_title_screen_lock">Tenir éveillé de périphériques</string>
+    <string name="press_color_to_apply">Appuyez sur la couleur à appliquer</string>
+    <string name="settings">Paramètres</string>
+    <string name="word_list">Mots</string>
+    <string name="intro_text">Bienvenue à la recherche des mots jeu. Le but du jeu est de trouver tous les mots cachés.</string>
+    <string name="pref_summary_allow_substring">Autoriser mot dans le mot ou non</string>
+    <string name="pref_title_allow_substring">Autoriser chaîne</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ordsökning</string>
+    <string name="dialog_color_picker">Färg Väljaren</string>
+    <string name="please_wait">Vänta</string>
+    <string name="pref_summary_gridsize">Antal rader och kolumner i rutnätet</string>
+    <string name="pref_summary_language">Välj språk för ordlista</string>
+    <string name="pref_summary_line_color">Avgör om de befinns ordet penna färg är slumpmässig eller samma</string>
+    <string name="pref_summary_num_words">Antal slumpmässiga ord att välja från databasen</string>
+    <string name="pref_summary_pencil_color">Ändra penna färg</string>
+    <string name="pref_summary_pencil_corner">Square eller rundad penna</string>
+    <string name="pref_summary_screen_lock">Håll enheten vaken medan du spelar</string>
+    <string name="pref_title_gridsize">Spel storlek</string>
+    <string name="pref_title_language">Språk</string>
+    <string name="pref_title_line_color">Konstant penna färg</string>
+    <string name="pref_title_num_words">Slumpmässig räkna ord</string>
+    <string name="pref_title_pencil_color">Penna färg</string>
+    <string name="pref_title_pencil_corner">Rundade penna</string>
+    <string name="pref_title_screen_lock">Håll enhets vaken</string>
+    <string name="press_color_to_apply">Tryck på Färg för att tillämpa</string>
+    <string name="settings">Inställningar</string>
+    <string name="word_list">Ord </string>
+    <string name="intro_text">Välkommen till ord Sök spel. Målet med spelet är att hitta alla dolda ord.</string>
+    <string name="pref_summary_allow_substring">Låt ord i ord eller inte</string>
+    <string name="pref_title_allow_substring">Tillåt träng</string>
+</resources>

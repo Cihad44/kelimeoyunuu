@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск Слова</string>
+    <string name="dialog_color_picker">палитра</string>
+    <string name="please_wait">пожалуйста, подождите</string>
+    <string name="pref_summary_gridsize">Количество строк и столбцов на сетке</string>
+    <string name="pref_summary_language">Выберите язык для списка слов</string>
+    <string name="pref_summary_line_color">Определяет, найти цвет слово карандаш случайные или же</string>
+    <string name="pref_summary_num_words">Количество случайных слов, чтобы выбрать из базы данных</string>
+    <string name="pref_summary_pencil_color">Изменить цвет карандаша</string>
+    <string name="pref_summary_pencil_corner">Квадратные округлые карандаш</string>
+    <string name="pref_summary_screen_lock">Бодрствовать устройства во время воспроизведения</string>
+    <string name="pref_title_gridsize">размер игры</string>
+    <string name="pref_title_language">язык</string>
+    <string name="pref_title_line_color">Постоянное карандаш цвета</string>
+    <string name="pref_title_num_words">Случайная количество слов</string>
+    <string name="pref_title_pencil_color">цвет карандаша</string>
+    <string name="pref_title_pencil_corner">Округлые карандаш</string>
+    <string name="pref_title_screen_lock">Бодрствовать устройств</string>
+    <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
+    <string name="settings">настройки</string>
+    <string name="word_list">слова</string>
+    <string name="intro_text">Добро пожаловать на слова поиск игры. Цель игры состоит в том, чтобы найти все скрытые слова.</string>
+    <string name="pref_summary_allow_substring">Разрешить слово в слово или нет</string>
+    <string name="pref_title_allow_substring">Разрешить подстроку</string>
+</resources>

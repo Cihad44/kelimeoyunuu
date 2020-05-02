@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values-no/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Ordsøk</string>
+    <string name="dialog_color_picker">Fargevelger</string>
+    <string name="intro_text">Velkommen til ord søket spillet. Ord gå til venstre, høyre, opp, ned og diagonalt. Et brev kan brukes mer enn én gang</string>
+    <string name="please_wait">Vennligst vent</string>
+    <string name="pref_summary_gridsize">Antall rader og kolonner på nettet</string>
+    <string name="pref_summary_language">Velg språk for ordlisten</string>
+    <string name="pref_summary_line_color">Bestemmer om funnet ordet blyant farge er tilfeldig eller samme</string>
+    <string name="pref_summary_num_words">Antall tilfeldige ord å velge fra database</string>
+    <string name="pref_summary_pencil_color">Endre blyant farge</string>
+    <string name="pref_summary_pencil_corner">Firkantet eller rund blyant</string>
+    <string name="pref_summary_screen_lock">Hold enheten våken mens du spiller</string>
+    <string name="pref_title_gridsize">Spillet størrelse</string>
+    <string name="pref_title_language">Språk</string>
+    <string name="pref_title_line_color">Konstant blyant farge</string>
+    <string name="pref_title_num_words">Tilfeldig ord teller</string>
+    <string name="pref_title_pencil_color">Blyant farge</string>
+    <string name="pref_title_pencil_corner">Avrundet blyant</string>
+    <string name="pref_title_screen_lock">Hold enhets våken</string>
+    <string name="press_color_to_apply">Trykk på Color å søke</string>
+    <string name="settings">Innstillinger</string>
+    <string name="well_done">Gratulerer</string>
+    <string name="word_list">Ordliste</string>
+</resources>

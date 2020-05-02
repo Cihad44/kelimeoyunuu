@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Search</string>
+    <string name="please_wait">Please wait</string>
+    <string name="intro_text">Welcome to word search game. The goal of the game is to find all the hidden words.</string>
+    <string name="settings">Settings</string>
+    <string name="pref_key_language" translatable="false">language</string>
+    <string name="pref_key_grid_size" translatable="false">boardSize</string>
+    <string name="pref_key_line_color_mode" translatable="false">lineColorMode</string>
+    <string name="pref_key_line_color" translatable="false">lineColor</string>
+    <string name="pref_key_rounded_line" translatable="false">roundedLine</string>
+    <string name="pref_key_num_words_to_select" translatable="false">numWordsToSelect</string>
+    <string name="pref_disable_screen_lock" translatable="false">disableScreenLock</string>
+    <string name="pref_allow_substring" translatable="false">allowSubstring</string>
+    <string name="word_list">Words</string>
+    <string name="pref_summary_language">Select language for word list</string>
+    <string name="pref_title_language">Language</string>
+    <string name="pref_summary_gridsize">Number of rows and columns on the grid</string>
+    <string name="pref_title_gridsize">Grid size</string>
+    <string name="pref_summary_line_color">Determines if found word pencil color is random or same</string>
+    <string name="pref_title_line_color">Constant pencil color</string>
+    <string name="pref_summary_pencil_corner">Square or rounded pencil</string>
+    <string name="pref_title_pencil_corner">Rounded pencil</string>
+    <string name="pref_summary_num_words">Number of random words to select from database</string>
+    <string name="pref_title_num_words">Random word count</string>
+    <string name="pref_summary_pencil_color">Change pencil color</string>
+    <string name="pref_title_pencil_color">Pencil color</string>
+    <string name="pref_summary_screen_lock">Keep device awake while playing</string>
+    <string name="pref_title_screen_lock">Keep device awake</string>
+    <string name="pref_summary_allow_substring">Allow word in word or not</string>
+    <string name="pref_title_allow_substring">Allow substring</string>
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="info_text" translatable="false">Copyright\n2015</string>
+    <string name="admob_pid" translatable="false">a15391a0507f390</string>
+
+</resources>

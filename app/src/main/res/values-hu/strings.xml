@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szó Keresése</string>
+    <string name="dialog_color_picker">Szín-választó</string>
+    <string name="intro_text">Üdvözöljük a szavakat kereső játék. A cél a játék az, hogy megtalálja a rejtett szavakat.</string>
+    <string name="please_wait">Kérlek várj</string>
+    <string name="pref_summary_gridsize">Sorok és oszlopok a rajtrácson</string>
+    <string name="pref_summary_language">Válasszon nyelvet szóra lista</string>
+    <string name="pref_summary_line_color">Meghatározza, hogy talált szót ceruza szín véletlenszerűen, vagy ugyanazon</string>
+    <string name="pref_summary_num_words">Számú véletlen szó kiválasztásához az adatbázisból</string>
+    <string name="pref_summary_pencil_color">Változás ceruza színes</string>
+    <string name="pref_summary_pencil_corner">Szögletes vagy kerek ceruza</string>
+    <string name="pref_summary_screen_lock">Tartsa készülék ébren játék közben</string>
+    <string name="pref_title_gridsize">Játék méret</string>
+    <string name="pref_title_language">Nyelv</string>
+    <string name="pref_title_line_color">Állandó ceruza színes</string>
+    <string name="pref_title_num_words">Véletlen szavak száma</string>
+    <string name="pref_title_pencil_color">Ceruza színes</string>
+    <string name="pref_title_pencil_corner">Lekerekített ceruza</string>
+    <string name="pref_title_screen_lock">Tartsa készülék ébren</string>
+    <string name="press_color_to_apply">Nyomja meg a Színes alkalmazni</string>
+    <string name="settings">Beállítások</string>
+    <string name="word_list">Szavak</string>
+    <string name="pref_summary_allow_substring">Hagyjuk szó szó vagy sem</string>
+    <string name="pref_title_allow_substring">Hagyjuk töredékszó</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Ricerca Parola</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string name="dialog_color_picker">Selezione Colore</string>
+    <string name="intro_text">Benvenuti a cercare parole gioco. L\'obiettivo del gioco è quello di trovare tutte le parole nascoste.</string>
+    <string name="please_wait">Attendere prego</string>
+    <string name="pref_summary_allow_substring">Consenti parola in parola o no</string>
+    <string name="pref_summary_gridsize">Numero di righe e colonne sulla griglia</string>
+    <string name="pref_summary_language">Scegliete la lingua per lista di parole</string>
+    <string name="pref_summary_line_color">Determina se trovato colore matita parola è casuale o uguale</string>
+    <string name="pref_summary_num_words">Numero di parole casuali per selezionare dal database</string>
+    <string name="pref_summary_pencil_color">Cambia colore matita</string>
+    <string name="pref_summary_pencil_corner">Matita quadrato o rotondo</string>
+    <string name="pref_summary_screen_lock">Mantenere dispositivo svegli durante il gioco</string>
+    <string name="pref_title_allow_substring">Consenti sottostringa</string>
+    <string name="pref_title_gridsize">Dimensioni gioco</string>
+    <string name="pref_title_language">Lingua</string>
+    <string name="pref_title_line_color">Matita di colore costante</string>
+    <string name="pref_title_num_words">Numero di parole a caso</string>
+    <string name="pref_title_pencil_color">Matita di colore</string>
+    <string name="pref_title_pencil_corner">Matita arrotondato</string>
+    <string name="pref_title_screen_lock">Vegliate dispositivo</string>
+    <string name="press_color_to_apply">Premere sul colore da applicare</string>
+    <string msgid="368094699078615544" name="s1">"Salva immagine"</string>
+    <string msgid="4550830452390689489" name="s2">"Consentire ad AdMob di memorizzare l\'immagine nella galleria Immagini?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accetto"</string>
+    <string msgid="9167523597401839819" name="s4">"Rifiuto"</string>
+    <string msgid="1566682516266724847" name="s5">"Crea evento di calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"Consentire ad AdMob di creare un evento di calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annuncio di test"</string>
+    <string name="settings">Impostazioni</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Parole</string>
+</resources>

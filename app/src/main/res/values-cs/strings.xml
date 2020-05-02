@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slovo Vyhledávání</string>
+    <string name="dialog_color_picker">Výběr Barev</string>
+    <string name="intro_text">Vítejte na slova hledání hru. Cílem hry je najít všechny skryté slova.</string>
+    <string name="please_wait">Prosím počkat</string>
+    <string name="pref_summary_gridsize">Počet řádků a sloupců na startovním roštu</string>
+    <string name="pref_summary_language">Volba jazyka pro seznamu slov</string>
+    <string name="pref_summary_line_color">Určuje, zda našel slovo tužka Barva je náhodné, nebo stejný</string>
+    <string name="pref_summary_num_words">Počet náhodných slov vybrat z databáze</string>
+    <string name="pref_summary_pencil_color">Změna tužka barva</string>
+    <string name="pref_summary_pencil_corner">Náměstí nebo zaoblené tužka</string>
+    <string name="pref_summary_screen_lock">Udržujte zařízení Probuďte se při hraní</string>
+    <string name="pref_title_gridsize">Rozměr desky</string>
+    <string name="pref_title_language">Jazyk</string>
+    <string name="pref_title_line_color">Konstantní tužka barva</string>
+    <string name="pref_title_num_words">Náhodné počet slov</string>
+    <string name="pref_title_pencil_color">tužka barva</string>
+    <string name="pref_title_pencil_corner">Zaoblené tužka</string>
+    <string name="pref_title_screen_lock">Bděte zařízení</string>
+    <string name="press_color_to_apply">Stiskněte Color platit</string>
+    <string name="settings">Nastavení</string>
+    <string name="word_list">Slova</string>
+    <string name="pref_summary_allow_substring">Povolit slovo od slova, či nikoli</string>
+    <string name="pref_title_allow_substring">Povolit podřetězec</string>
+</resources>

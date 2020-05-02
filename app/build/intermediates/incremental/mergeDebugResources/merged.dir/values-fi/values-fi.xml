@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Sanahaku</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen."</string>
+    <string name="dialog_color_picker">Värinvalitsin</string>
+    <string name="intro_text">Tervetuloa sanoja haku peli. Pelin tavoitteena on löytää kaikki piilotetut sanat.</string>
+    <string name="please_wait">Odota</string>
+    <string name="pref_summary_allow_substring">Salli sana sanalla tai ei</string>
+    <string name="pref_summary_gridsize">Rivien ja sarakkeiden ruudukon</string>
+    <string name="pref_summary_language">Valitse kieli sanalista</string>
+    <string name="pref_summary_line_color">Määrittää jos löytyy sana kynä väri on satunnainen tai sama</string>
+    <string name="pref_summary_num_words">Lukumäärä satunnaisia sanoja valita tietokannasta</string>
+    <string name="pref_summary_pencil_color">Vaihda lyijykynä väri</string>
+    <string name="pref_summary_pencil_corner">Neliö tai pyöristetty lyijykynä</string>
+    <string name="pref_summary_screen_lock">Pidä laite hereillä pelatessaan</string>
+    <string name="pref_title_allow_substring">Salli alimerkkijono</string>
+    <string name="pref_title_gridsize">Peli koko</string>
+    <string name="pref_title_language">Kieli</string>
+    <string name="pref_title_line_color">Jatkuva lyijykynä väri</string>
+    <string name="pref_title_num_words">Satunnainen sanamäärä</string>
+    <string name="pref_title_pencil_color">Lyijykynä väri</string>
+    <string name="pref_title_pencil_corner">Pyöristetty lyijykynä</string>
+    <string name="pref_title_screen_lock">Pidä laite hereillä</string>
+    <string name="press_color_to_apply">Paina väri soveltamaan</string>
+    <string msgid="368094699078615544" name="s1">"Tallenna kuva"</string>
+    <string msgid="4550830452390689489" name="s2">"Myönnetäänkö mainokselle oikeus tallentaa kuva galleriaan?"</string>
+    <string msgid="2435407834265420668" name="s3">"Hyväksy"</string>
+    <string msgid="9167523597401839819" name="s4">"Hylkää"</string>
+    <string msgid="1566682516266724847" name="s5">"Luo kalenteritapahtuma"</string>
+    <string msgid="5996672174517137271" name="s6">"Myönnetäänkö mainokselle oikeus luoda kalenteritapahtuma?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testimainos"</string>
+    <string name="settings">Asetukset</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Sanoja</string>
+</resources>

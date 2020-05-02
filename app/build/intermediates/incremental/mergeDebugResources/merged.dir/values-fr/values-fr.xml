@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Recherche De Mot</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="dialog_color_picker">Sélecteur de Couleurs</string>
+    <string name="intro_text">Bienvenue à la recherche des mots jeu. Le but du jeu est de trouver tous les mots cachés.</string>
+    <string name="please_wait">S\'il vous plaît, attendez</string>
+    <string name="pref_summary_allow_substring">Autoriser mot dans le mot ou non</string>
+    <string name="pref_summary_gridsize">Nombre de rangées et de colonnes de la grille</string>
+    <string name="pref_summary_language">Sélectionnez la langue de liste de mots</string>
+    <string name="pref_summary_line_color">Détermine si trouvé couleur de crayon de mot est aléatoire ou même</string>
+    <string name="pref_summary_num_words">Nombre de mots aléatoires pour sélectionner la base de données</string>
+    <string name="pref_summary_pencil_color">Changement crayon de couleur</string>
+    <string name="pref_summary_pencil_corner">Crayon carré ou arrondi</string>
+    <string name="pref_summary_screen_lock">Tenir éveillé de l\'appareil tout en jouant</string>
+    <string name="pref_title_allow_substring">Autoriser chaîne</string>
+    <string name="pref_title_gridsize">Taille du jeu</string>
+    <string name="pref_title_language">Langue</string>
+    <string name="pref_title_line_color">Constant couleur crayon</string>
+    <string name="pref_title_num_words">Aléatoire nombre de mots</string>
+    <string name="pref_title_pencil_color">Crayon de couleur</string>
+    <string name="pref_title_pencil_corner">Crayon arrondi</string>
+    <string name="pref_title_screen_lock">Tenir éveillé de périphériques</string>
+    <string name="press_color_to_apply">Appuyez sur la couleur à appliquer</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
+    <string name="settings">Paramètres</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Mots</string>
+</resources>

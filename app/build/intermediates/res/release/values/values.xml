@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/donottranslate.xml -->
+    <eat-comment/>
+    <string-array name="board_size_labels">
+        <item>5x5</item>
+        <item>6x6</item>
+        <item>7x7</item>
+        <item>8x8</item>
+        <item>9x9</item>
+        <item>10x10</item>
+        <item>11x11</item>
+        <item>12x12</item>
+        <item>13x13</item>
+        <item>14x14</item>
+        <item>15x15</item>
+    </string-array>
+    <string-array name="board_size_values">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>tr</item>
+        <item>de</item>
+        <item>es</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>el</item>
+        <item>eo</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>hu</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sv</item>
+        <item>sw</item>
+    </string-array>
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Türkçe</item>
+        <item>Deutsch</item>
+        <item>Español</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Ελληνικά</item>
+        <item>Esperanto</item>
+        <item>Suomi</item>
+        <item>Français</item>
+        <item>Magyar</item>
+        <item>Italiano</item>
+        <item>Nederlands</item>
+        <item>Norsk</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Română</item>
+        <item>Pусский</item>
+        <item>Svenska</item>
+        <item>Swahili</item>
+    </string-array>
+    <string-array name="num_words_select">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="board_background"/>
+    <attr format="reference" name="board_letter"/>
+    <attr format="reference" name="theme_color"/>
+    <attr format="reference" name="well_done_text_color"/>
+    <attr format="reference" name="word_list"/>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="green">#2C8278</color>
+    <color name="grey1">#fbfbfb</color>
+    <color name="grey2">#6a6a6a</color>
+    <color name="grey3">#ff525252</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CircleButton"><attr format="color" name="cb_color"/><attr format="dimension" name="cb_pressedRingWidth"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="wordsearch"><attr name="android:numColumns"/></declare-styleable>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="circle_button_padding">18dp</dimen>
+    <dimen name="congrutulations_text_size">50sp</dimen>
+    <dimen name="intro_body_margin">10dp</dimen>
+    <dimen name="intro_button_margin">5dp</dimen>
+    <dimen name="intro_button_margin_land">10dp</dimen>
+    <dimen name="letter_size">16sp</dimen>
+    <dimen name="welcome_text_size">14sp</dimen>
+    <dimen name="word_list_title_size">16sp</dimen>
+    <dimen name="word_size">12sp</dimen>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">7571000</integer>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="admob_pid" translatable="false">ca-app-pub-5523365147551121/4977182498</string>
+    <string name="app_name">Word Search</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/auth_strings.xml -->
+    <eat-comment/>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="info_text" translatable="false">Ümit Gören\n2014</string>
+    <string name="intro_text">Welcome to word search game. Words go left, right, up, down and diagonally. A letter may be used more than once.</string>
+    <string name="please_wait">Please wait</string>
+    <string name="pref_disable_screen_lock" translatable="false">disableScreenLock</string>
+    <string name="pref_key_grid_size" translatable="false">boardSize</string>
+    <string name="pref_key_language" translatable="false">language</string>
+    <string name="pref_key_line_color" translatable="false">lineColor</string>
+    <string name="pref_key_line_color_mode" translatable="false">lineColorMode</string>
+    <string name="pref_key_num_words_to_select" translatable="false">numWordsToSelect</string>
+    <string name="pref_key_rounded_line" translatable="false">roundedLine</string>
+    <string name="pref_summary_gridsize">Number of rows and columns on the grid</string>
+    <string name="pref_summary_language">Select language for word list</string>
+    <string name="pref_summary_line_color">Determines if found word pencil color is random or same</string>
+    <string name="pref_summary_num_words">Number of random words to select from database</string>
+    <string name="pref_summary_pencil_color">Change pencil color</string>
+    <string name="pref_summary_pencil_corner">Square or rounded pencil</string>
+    <string name="pref_summary_screen_lock">Keep device awake while playing</string>
+    <string name="pref_title_gridsize">Grid size</string>
+    <string name="pref_title_language">Language</string>
+    <string name="pref_title_line_color">Constant pencil color</string>
+    <string name="pref_title_num_words">Random word count</string>
+    <string name="pref_title_pencil_color">Pencil color</string>
+    <string name="pref_title_pencil_corner">Rounded pencil</string>
+    <string name="pref_title_screen_lock">Keep device awake</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="settings">Settings</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="well_done">Well done!</string>
+    <string name="word_list">Word List</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="theme_color">@color/green</item>
+        <item name="well_done_text_color">@color/grey2</item>
+        <item name="board_letter">@color/grey3</item>
+        <item name="word_list">@color/grey2</item>
+        <item name="board_background">@color/grey1</item>
+    </style>
+    <style name="AppTheme.Base" parent="android:Theme.Holo.Light">
+
+    </style>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+</resources>

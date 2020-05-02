@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woorden Zoeken</string>
+    <string name="dialog_color_picker">Kleurenkiezer</string>
+    <string name="please_wait">Wacht alstublieft</string>
+    <string name="pref_summary_gridsize">Aantal rijen en kolommen op de grid</string>
+    <string name="pref_summary_language">Selecteer taal voor woordenlijst</string>
+    <string name="pref_summary_line_color">Bepaalt of gevonden woord potlood kleur is willekeurig of gelijk</string>
+    <string name="pref_summary_num_words">Aantal willekeurige woorden te selecteren uit de database</string>
+    <string name="pref_summary_pencil_color">Verandering potlood kleur</string>
+    <string name="pref_summary_pencil_corner">Vierkante of ronde potlood</string>
+    <string name="pref_summary_screen_lock">Houd het apparaat wakker tijdens het spelen</string>
+    <string name="pref_title_gridsize">Spel grootte</string>
+    <string name="pref_title_language">Taal</string>
+    <string name="pref_title_line_color">Constant potlood kleur</string>
+    <string name="pref_title_num_words">Willekeurig aantal woorden</string>
+    <string name="pref_title_pencil_color">Kleurpotlood</string>
+    <string name="pref_title_pencil_corner">Afgeronde potlood</string>
+    <string name="pref_title_screen_lock">Houd het apparaat wakker</string>
+    <string name="press_color_to_apply">Druk op de kleur toe te passen</string>
+    <string name="settings">Instellingen</string>
+    <string name="word_list">Praatjes</string>
+    <string name="intro_text">Welkom bij woorden zoeken spel. Het doel van het spel is om alle verborgen woorden te vinden.</string>
+    <string name="pref_summary_allow_substring">Laat woord in woord of niet</string>
+    <string name="pref_title_allow_substring">Laat substring</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cautare De Cuvinte</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> întâmpină probleme privind serviciile Google Play. Încercați din nou."</string>
+    <string name="dialog_color_picker">Selectorul de Culoare</string>
+    <string name="intro_text">Bine ati venit la căutare cuvinte joc. Scopul jocului este de a găsi toate cuvintele ascunse.</string>
+    <string name="please_wait">Te rog asteapta</string>
+    <string name="pref_summary_allow_substring">Permiteți cuvânt în cuvânt sau nu</string>
+    <string name="pref_summary_gridsize">Numărul de rânduri și coloane pe grila</string>
+    <string name="pref_summary_language">Selectați limba pentru lista de cuvinte</string>
+    <string name="pref_summary_line_color">Determină dacă este găsit de culoare creion cuvânt este aleatoare sau același</string>
+    <string name="pref_summary_num_words">Numărul de cuvinte aleatoare pentru a selecta din baza de date</string>
+    <string name="pref_summary_pencil_color">Culoare schimbare creion</string>
+    <string name="pref_summary_pencil_corner">Creion gradină rotunjite</string>
+    <string name="pref_summary_screen_lock">Păstrați aparatul treaz în timp ce joacă</string>
+    <string name="pref_title_allow_substring">Permiteți subșir</string>
+    <string name="pref_title_gridsize">Dimensiunea de joc</string>
+    <string name="pref_title_language">Limbă</string>
+    <string name="pref_title_line_color">Culoare creion Constant</string>
+    <string name="pref_title_num_words">Numărul de cuvinte aleatoare</string>
+    <string name="pref_title_pencil_color">Culoare creion</string>
+    <string name="pref_title_pencil_corner">Creion rotunjit</string>
+    <string name="pref_title_screen_lock">Păstrați treaz dispozitiv</string>
+    <string name="press_color_to_apply">Apăsați pe Color pentru a aplica</string>
+    <string msgid="368094699078615544" name="s1">"Salvați imaginea"</string>
+    <string msgid="4550830452390689489" name="s2">"Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?"</string>
+    <string msgid="2435407834265420668" name="s3">"Acceptați"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuzați"</string>
+    <string msgid="1566682516266724847" name="s5">"Creați un eveniment în calendar"</string>
+    <string msgid="5996672174517137271" name="s6">"Permiteți ca anunțul să creeze un eveniment în calendar?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anunț de probă"</string>
+    <string name="settings">setări</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Cuvinte</string>
+</resources>

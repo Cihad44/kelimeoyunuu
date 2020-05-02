@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\umit\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\sqliteassethelper-2.0.1-3d249c51b986ef346bb65ff6b9c7f2e638110c07.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-4c9c763cbadc10dbd41a8b6cc3cdc53d814082c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\classes-16562d3e86eb20f31497962304bf60aab7a61956.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\classes-4ad53ef1009f7f49dfb58107245424c328e6463e.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-a1fa4beae34518051b36472291e2a483a2733039.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-32fe4d074c59dbf84ad22abf50fdbcb305288d43.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\classes-d7d423f17abd47f0b7d675f943293ba09f058c31.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-8f29c8fa8f53d7fc5403d796699666868c5a2f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-2c88240c5adbc32f719959540efe1ed689239f09.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\classes-f6ab809cc8776957177ca898503e62c25253b1ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c0c09dc9a0d6d841a31318d820da81f8a76a7a0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-c217c867166e6bdac1f61ddfabc6cc190e92fe34.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\library-2.4.0-a358584b71e1864a90e6d16e232327357202d0e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b0796052f65a27a22753f7f6e75695d1924491e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\umit\StudioProjects\WordSearch - Codecanyon\app\build\intermediates\pre-dexed\debug\classes-d77d9c302d9f4cbd0330c3d9e8838d25e607f3e8.jar" />
+    </item>
+
+</items>

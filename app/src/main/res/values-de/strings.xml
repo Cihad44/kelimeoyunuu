@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wortsuche</string>
+    <string name="dialog_color_picker">Farbauswahl</string>
+    <string name="please_wait">Warten Sie mal</string>
+    <string name="pref_summary_gridsize">Anzahl der Zeilen und Spalten in einer Tabelle</string>
+    <string name="pref_summary_language">Wählen Sie die Sprache für die Wortliste</string>
+    <string name="pref_summary_line_color">Legt fest, ob gefundene Wort Bleistift Farbe ist zufällig oder gleichen</string>
+    <string name="pref_summary_num_words">Anzahl von zufälligen Worten aus Datenbank auswählen</string>
+    <string name="pref_summary_pencil_color">Bleistift Farbe ändern</string>
+    <string name="pref_summary_pencil_corner">Quadratischen oder runden Bleistift</string>
+    <string name="pref_summary_screen_lock">Halten Sie Gerät wach während des Spielens</string>
+    <string name="pref_title_gridsize">Rastergröße</string>
+    <string name="pref_title_language">Sprache</string>
+    <string name="pref_title_line_color">Constant Bleistift Farbe</string>
+    <string name="pref_title_num_words">Zufallswortanzahl</string>
+    <string name="pref_title_pencil_color">Pencil Farbe</string>
+    <string name="pref_title_pencil_corner">Abgerundete Bleistift</string>
+    <string name="pref_title_screen_lock">Halten Sie Gerät wach</string>
+    <string name="press_color_to_apply">Drücken Sie auf Farbe zu bewerben</string>
+    <string name="settings">Einstellungen</string>
+    <string name="word_list">Worte</string>
+    <string name="intro_text">Willkommen in Worten Suchspiel. Das Ziel des Spiels ist es, alle versteckten Wörter zu finden.</string>
+    <string name="pref_summary_allow_substring">Lassen Sie Wort in Wort oder nicht</string>
+    <string name="pref_title_allow_substring">Erlauben substring</string>
+</resources>

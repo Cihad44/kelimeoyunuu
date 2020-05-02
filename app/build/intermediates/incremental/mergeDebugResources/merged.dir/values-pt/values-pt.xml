@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Procura De Palavras</string>
+    <string name="dialog_color_picker">Cor Seletor</string>
+    <string name="intro_text">Bem-vindo à busca de palavras jogo. O objetivo do jogo é encontrar todas as palavras escondidas.</string>
+    <string name="please_wait">Por favor, aguarde</string>
+    <string name="pref_summary_allow_substring">Permitir palavra em palavra ou não</string>
+    <string name="pref_summary_gridsize">Número de linhas e colunas na grelha</string>
+    <string name="pref_summary_language">Escolha um idioma para lista de palavras</string>
+    <string name="pref_summary_line_color">Determina se encontrado cor lápis palavra é aleatória ou mesmo</string>
+    <string name="pref_summary_num_words">Número de palavras aleatórias para selecionar a partir de banco de dados</string>
+    <string name="pref_summary_pencil_color">Alterar lápis de cor</string>
+    <string name="pref_summary_pencil_corner">Lápis quadrado ou arredondado</string>
+    <string name="pref_summary_screen_lock">Vigiai dispositivo enquanto estiver jogando</string>
+    <string name="pref_title_allow_substring">Permitir substring</string>
+    <string name="pref_title_gridsize">Tamanho do jogo</string>
+    <string name="pref_title_language">Idioma</string>
+    <string name="pref_title_line_color">Lápis de cor constante</string>
+    <string name="pref_title_num_words">Contagem de palavras aleatórias</string>
+    <string name="pref_title_pencil_color">Lápis de cor</string>
+    <string name="pref_title_pencil_corner">Lápis arredondada</string>
+    <string name="pref_title_screen_lock">Vigiai dispositivo</string>
+    <string name="press_color_to_apply">Pressione em cores para aplicar</string>
+    <string name="settings">Definições</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Palavras</string>
+</resources>

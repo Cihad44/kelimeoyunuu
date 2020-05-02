@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ricerca Parola</string>
+    <string name="dialog_color_picker">Selezione Colore</string>
+    <string name="please_wait">Attendere prego</string>
+    <string name="pref_summary_gridsize">Numero di righe e colonne sulla griglia</string>
+    <string name="pref_summary_language">Scegliete la lingua per lista di parole</string>
+    <string name="pref_summary_line_color">Determina se trovato colore matita parola è casuale o uguale</string>
+    <string name="pref_summary_num_words">Numero di parole casuali per selezionare dal database</string>
+    <string name="pref_summary_pencil_color">Cambia colore matita</string>
+    <string name="pref_summary_pencil_corner">Matita quadrato o rotondo</string>
+    <string name="pref_summary_screen_lock">Mantenere dispositivo svegli durante il gioco</string>
+    <string name="pref_title_gridsize">Dimensioni gioco</string>
+    <string name="pref_title_language">Lingua</string>
+    <string name="pref_title_line_color">Matita di colore costante</string>
+    <string name="pref_title_num_words">Numero di parole a caso</string>
+    <string name="pref_title_pencil_color">Matita di colore</string>
+    <string name="pref_title_pencil_corner">Matita arrotondato</string>
+    <string name="pref_title_screen_lock">Vegliate dispositivo</string>
+    <string name="press_color_to_apply">Premere sul colore da applicare</string>
+    <string name="settings">Impostazioni</string>
+    <string name="word_list">Parole</string>
+    <string name="intro_text">Benvenuti a cercare parole gioco. L\'obiettivo del gioco è quello di trovare tutte le parole nascoste.</string>
+    <string name="pref_summary_allow_substring">Consenti parola in parola o no</string>
+    <string name="pref_title_allow_substring">Consenti sottostringa</string>
+</resources>

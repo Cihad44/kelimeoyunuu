@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch%20-%20Codecanyon/app/src/main/res/values-large/dimens.xml -->
+    <eat-comment/>
+    <dimen name="intro_button_margin">25dp</dimen>
+    <dimen name="intro_button_margin_land">20dp</dimen>
+    <dimen name="letter_size">35sp</dimen>
+    <dimen name="welcome_text_size">24sp</dimen>
+    <dimen name="word_list_title_size">20sp</dimen>
+    <dimen name="word_size">14sp</dimen>
+</resources>

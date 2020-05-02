@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ord Søgning</string>
+    <string name="dialog_color_picker">Farvevælger</string>
+    <string name="please_wait">Vent venligst</string>
+    <string name="pref_summary_gridsize">Antallet af rækker og kolonner på gitteret</string>
+    <string name="pref_summary_language">Vælg sprog til ordliste</string>
+    <string name="pref_summary_line_color">Bestemmer, om fundet ordet blyant farve er tilfældig eller samme</string>
+    <string name="pref_summary_num_words">Antal tilfældige ord at vælge fra databasen</string>
+    <string name="pref_summary_pencil_color">Skift blyant farve</string>
+    <string name="pref_summary_pencil_corner">Firkantet eller afrundet blyant</string>
+    <string name="pref_summary_screen_lock">Hold enhedens vågen, mens du spiller</string>
+    <string name="pref_title_gridsize">Gitter størrelse</string>
+    <string name="pref_title_language">Sprog</string>
+    <string name="pref_title_line_color">Konstant blyant farve</string>
+    <string name="pref_title_num_words">Tilfældig ord tæller</string>
+    <string name="pref_title_pencil_color">Blyant farve</string>
+    <string name="pref_title_pencil_corner">Afrundet blyant</string>
+    <string name="pref_title_screen_lock">Hold enhedens vågen</string>
+    <string name="press_color_to_apply">Tryk på Farve for at anvende</string>
+    <string name="settings">İndstillinger</string>
+    <string name="word_list">Ord</string>
+    <string name="intro_text">Velkommen til ord søgning spil. Målet med spillet er at finde alle de skjulte ord.</string>
+    <string name="pref_summary_allow_substring">Tillad ord i ord eller ikke</string>
+    <string name="pref_title_allow_substring">Tillade substring</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Busqueda De Palabra</string>
+    <string name="dialog_color_picker">Selector de Color</string>
+    <string name="please_wait">Por favor espera</string>
+    <string name="pref_summary_gridsize">Número de filas y columnas en la parrilla</string>
+    <string name="pref_summary_language">Seleccionar idioma de la lista de palabras</string>
+    <string name="pref_summary_line_color">Determina si se encuentra de color lápiz palabra es al azar o del mismo</string>
+    <string name="pref_summary_num_words">Número de palabras al azar para seleccionar la base de datos</string>
+    <string name="pref_summary_pencil_color">Cambiar el color de lápiz</string>
+    <string name="pref_summary_pencil_corner">Lápiz Square o redondeada</string>
+    <string name="pref_summary_screen_lock">Velad dispositivo mientras se reproduce</string>
+    <string name="pref_title_gridsize">Tamaño del juego</string>
+    <string name="pref_title_language">Idioma</string>
+    <string name="pref_title_line_color">Lápiz de color constante</string>
+    <string name="pref_title_num_words">Número de palabras al azar</string>
+    <string name="pref_title_pencil_color">Color de lápiz</string>
+    <string name="pref_title_pencil_corner">lápiz redondeado</string>
+    <string name="pref_title_screen_lock">Velad dispositivo</string>
+    <string name="press_color_to_apply">Press el color a aplicar</string>
+    <string name="settings">Ajustes</string>
+    <string name="word_list">Palabras</string>
+    <string name="intro_text">Bienvenido al juego de palabras de búsqueda. El objetivo del juego es encontrar todas las palabras escondidas.</string>
+    <string name="pref_summary_allow_substring">Permitir palabra en palabra o no</string>
+    <string name="pref_title_allow_substring">Permitir subcadena</string>
+</resources>

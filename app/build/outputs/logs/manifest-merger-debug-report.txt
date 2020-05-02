@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\d1fbefcc4609c2cb9770f710459b30b1\play-services-ads-19.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\5a67c6bfc7318d4947e65864d6c46f47\library-1.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\794719ffea45b42d18430ff768e29278\library-1.1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\bc194b84aa03b3280ef6ad274c818e45\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\ac4c20eb2265e0c209331ad20d1a5ec9\play-services-gass-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\31b740602d2530160bf840062b2df8e8\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\287346e905cd20ad06ee512960ac8325\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e1fea0677e1f255818920a4b4d8ca8d3\play-services-measurement-base-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\25bfa9abbe57efa7109f3ed8175af34b\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\144fdb6eac090fb35b1d84279c68b489\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\016f45cb4d456f3e040381b178551285\play-services-ads-base-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9403b198b8afe4b102d07c4886ca21c9\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\072b344381f0227679ab9ff288809b6a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\d1fbefcc4609c2cb9770f710459b30b1\play-services-ads-19.1.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\d1fbefcc4609c2cb9770f710459b30b1\play-services-ads-19.1.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\5a67c6bfc7318d4947e65864d6c46f47\library-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\5a67c6bfc7318d4947e65864d6c46f47\library-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\794719ffea45b42d18430ff768e29278\library-1.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\794719ffea45b42d18430ff768e29278\library-1.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\bc194b84aa03b3280ef6ad274c818e45\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\bc194b84aa03b3280ef6ad274c818e45\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\ac4c20eb2265e0c209331ad20d1a5ec9\play-services-gass-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\ac4c20eb2265e0c209331ad20d1a5ec9\play-services-gass-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\31b740602d2530160bf840062b2df8e8\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\31b740602d2530160bf840062b2df8e8\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\287346e905cd20ad06ee512960ac8325\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\287346e905cd20ad06ee512960ac8325\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e1fea0677e1f255818920a4b4d8ca8d3\play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e1fea0677e1f255818920a4b4d8ca8d3\play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\25bfa9abbe57efa7109f3ed8175af34b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\25bfa9abbe57efa7109f3ed8175af34b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\144fdb6eac090fb35b1d84279c68b489\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\144fdb6eac090fb35b1d84279c68b489\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\016f45cb4d456f3e040381b178551285\play-services-ads-base-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\016f45cb4d456f3e040381b178551285\play-services-ads-base-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9403b198b8afe4b102d07c4886ca21c9\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\9403b198b8afe4b102d07c4886ca21c9\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\072b344381f0227679ab9ff288809b6a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\072b344381f0227679ab9ff288809b6a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\d1fbefcc4609c2cb9770f710459b30b1\play-services-ads-19.1.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:11:5-42:19
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\ac4c20eb2265e0c209331ad20d1a5ec9\play-services-gass-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\ac4c20eb2265e0c209331ad20d1a5ec9\play-services-gass-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\31b740602d2530160bf840062b2df8e8\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\31b740602d2530160bf840062b2df8e8\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\287346e905cd20ad06ee512960ac8325\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\287346e905cd20ad06ee512960ac8325\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e1fea0677e1f255818920a4b4d8ca8d3\play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\e1fea0677e1f255818920a4b4d8ca8d3\play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\144fdb6eac090fb35b1d84279c68b489\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\144fdb6eac090fb35b1d84279c68b489\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\016f45cb4d456f3e040381b178551285\play-services-ads-base-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\016f45cb4d456f3e040381b178551285\play-services-ads-base-19.1.0\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4de34232979cbe134bd28b81339a3afe\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\8332131f6675301b4c0f7ae3fe17e1e6\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:17:13-58
+activity#net.codecanyon.trimax.android.wordsearch.game.GameActivity
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:21:13-46
+activity#net.codecanyon.trimax.android.wordsearch.intro.IntroActivity
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:24:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:28:27-74
+activity#net.codecanyon.trimax.android.wordsearch.prefs.SettingsActivity
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:32:13-51
+activity#net.codecanyon.trimax.android.wordsearch.info.InfoActivity
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:37:13-46
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:39:9-41:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:40:13-122
+	android:theme
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from C:\Users\chddy\Desktop\apricodee\wordsearch\codecanyon-12444203-word-search\WordSearch - Android - Studio\app\src\main\AndroidManifest.xml:39:19-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:24:22-76
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\4e98e8821f3701a99f3861b4d3c269e3\play-services-ads-lite-19.1.0\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\chddy\.gradle\caches\transforms-2\files-2.1\65779a5fc51ae4563a0b8fc30c303de7\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:22-65

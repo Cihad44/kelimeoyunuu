@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\chddy\\Desktop\\apricodee\\wordsearch\\codecanyon-12444203-word-search\\WordSearch - Android - Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chddy\\Desktop\\apricodee\\wordsearch\\codecanyon-12444203-word-search\\WordSearch - Android - Studio\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "3,5,6,2,7,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "107,201,258,57,302,159",
+                        "endColumns": "50,55,42,48,51,40",
+                        "endOffsets": "153,252,296,101,349,195"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,106,162,205,254,306",
+                        "endColumns": "50,55,42,48,51,40",
+                        "endOffsets": "101,157,200,249,301,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

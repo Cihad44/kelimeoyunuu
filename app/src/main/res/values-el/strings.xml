@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αναζήτηση Λέξης</string>
+    <string name="dialog_color_picker">επιλογέα χρώματος</string>
+    <string name="please_wait">Παρακαλώ περιμένετε</string>
+    <string name="pref_summary_gridsize">Αριθμό σειρών και στηλών στο πλέγμα</string>
+    <string name="pref_summary_language">Επιλέξτε τη γλώσσα για τη λίστα λέξεων</string>
+    <string name="pref_summary_line_color">Καθορίζει αν βρεθεί χρώμα λέξη μολύβι είναι τυχαία ή ίδια</string>
+    <string name="pref_summary_num_words">Αριθμός τυχαίες λέξεις για να επιλέξετε από τη βάση δεδομένων</string>
+    <string name="pref_summary_pencil_color">Αλλαγή χρώματος μολύβι</string>
+    <string name="pref_summary_pencil_corner">Πλατεία στρογγυλεμένες ή μολύβι</string>
+    <string name="pref_summary_screen_lock">Κρατήσει ξύπνιο συσκευή, ενώ παίζει</string>
+    <string name="pref_title_gridsize">το μέγεθος του σκάφους</string>
+    <string name="pref_title_language">γλώσσα</string>
+    <string name="pref_title_line_color">Σταθερό χρώμα μολύβι</string>
+    <string name="pref_title_num_words">Τυχαία καταμέτρηση λέξεων</string>
+    <string name="pref_title_pencil_color">μολύβι χρώμα</string>
+    <string name="pref_title_pencil_corner">στρογγυλεμένες μολύβι</string>
+    <string name="pref_title_screen_lock">Κρατήσει ξύπνιο συσκευή</string>
+    <string name="press_color_to_apply">Πατήστε για να εφαρμόσετε χρώμα</string>
+    <string name="settings">ρυθμίσεις</string>
+    <string name="word_list">λόγια</string>
+    <string name="intro_text">Καλώς ήλθατε στο παιχνίδι λέξεις αναζήτησης. Ο στόχος του παιχνιδιού είναι να βρείτε όλες τις κρυμμένες λέξεις.</string>
+    <string name="pref_summary_allow_substring">Επιτρέψτε λέξη σε λέξη ή όχι</string>
+    <string name="pref_title_allow_substring">Επιτρέψτε υποσυμβολοσειρά</string>
+</resources>

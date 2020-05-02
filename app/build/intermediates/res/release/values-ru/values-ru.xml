@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Поиск Слова</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ru/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Чтобы продолжить работу с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите Android Wear"</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Обновить Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", недоступны. Свяжитесь с его разработчиком."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", включите сервисы Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Включите Сервисы Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Источник запроса: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play, не установленные на вашем телефоне."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play, не установленные на вашем планшете."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Установите Сервисы Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Для работы приложения требуется включить сервисы Google Play"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Для работы приложения требуется обновить сервисы Google Play"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"При входе в указанный аккаунт произошла ошибка. Выберите другой аккаунт."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Ошибка входа"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Неизвестная ошибка с Сервисами Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к его производителю."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Обновите Сервисы Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Войти"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Войти в аккаунт Google"</string>
+    <!-- From: file:/C:/Users/umit/StudioProjects/WordSearch/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_color_picker">палитра</string>
+    <string name="intro_text">Добро пожаловать на слово поиска игры. Слова идут влево, вправо, вверх, вниз и по диагонали.Письмо может быть использован более чем один раз.</string>
+    <string name="please_wait">пожалуйста, подождите</string>
+    <string name="pref_summary_gridsize">Количество строк и столбцов на сетке</string>
+    <string name="pref_summary_language">Выберите язык для списка слов</string>
+    <string name="pref_summary_line_color">Определяет, найти цвет слово карандаш случайные или же</string>
+    <string name="pref_summary_num_words">Количество случайных слов, чтобы выбрать из базы данных</string>
+    <string name="pref_summary_pencil_color">Изменить цвет карандаша</string>
+    <string name="pref_summary_pencil_corner">Квадратные округлые карандаш</string>
+    <string name="pref_summary_screen_lock">Бодрствовать устройства во время воспроизведения</string>
+    <string name="pref_title_gridsize">размер игры</string>
+    <string name="pref_title_language">язык</string>
+    <string name="pref_title_line_color">Постоянное карандаш цвета</string>
+    <string name="pref_title_num_words">Случайная количество слов</string>
+    <string name="pref_title_pencil_color">цвет карандаша</string>
+    <string name="pref_title_pencil_corner">Округлые карандаш</string>
+    <string name="pref_title_screen_lock">Бодрствовать устройств</string>
+    <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
+    <string name="settings">настройки</string>
+    <string name="well_done">поздравления</string>
+    <string name="word_list">Список Слов</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szukanie Słowa</string>
+    <string name="dialog_color_picker">Selektor Kolorów</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="pref_summary_gridsize">Liczba wierszy i kolumn w siatce</string>
+    <string name="pref_summary_language">Wybierz język listy słów</string>
+    <string name="pref_summary_line_color">Określa, czy znaleźć słowo ołówek jest kolor losowo lub sam</string>
+    <string name="pref_summary_num_words">Liczba przypadkowych słów, aby wybrać z bazy danych</string>
+    <string name="pref_summary_pencil_color">Zmień kolor ołówek</string>
+    <string name="pref_summary_pencil_corner">Kwadratowe lub zaokrąglone ołówek</string>
+    <string name="pref_summary_screen_lock">Czuwajcie urządzenia podczas gry</string>
+    <string name="pref_title_gridsize">Rozmiar gry</string>
+    <string name="pref_title_language">Język</string>
+    <string name="pref_title_line_color">Stała kolor ołówek</string>
+    <string name="pref_title_num_words">Losowa liczba słów</string>
+    <string name="pref_title_pencil_color">Farbują</string>
+    <string name="pref_title_pencil_corner">Zaokrąglone ołówek</string>
+    <string name="pref_title_screen_lock">Czuwajcie urządzeń</string>
+    <string name="press_color_to_apply">Naciśnij, aby zastosować kolor</string>
+    <string name="settings">Ustawienia</string>
+    <string name="word_list">Słowa</string>
+    <string name="intro_text">Zapraszamy do wyszukiwania słowa gry. Celem gry jest znalezienie wszystkich ukrytych słów.</string>
+    <string name="pref_summary_allow_substring">Pozwól słowo słowem, czy nie</string>
+    <string name="pref_title_allow_substring">Pozwól podciąg</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Поиск Слова</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string name="dialog_color_picker">палитра</string>
+    <string name="intro_text">Добро пожаловать на слова поиск игры. Цель игры состоит в том, чтобы найти все скрытые слова.</string>
+    <string name="please_wait">пожалуйста, подождите</string>
+    <string name="pref_summary_allow_substring">Разрешить слово в слово или нет</string>
+    <string name="pref_summary_gridsize">Количество строк и столбцов на сетке</string>
+    <string name="pref_summary_language">Выберите язык для списка слов</string>
+    <string name="pref_summary_line_color">Определяет, найти цвет слово карандаш случайные или же</string>
+    <string name="pref_summary_num_words">Количество случайных слов, чтобы выбрать из базы данных</string>
+    <string name="pref_summary_pencil_color">Изменить цвет карандаша</string>
+    <string name="pref_summary_pencil_corner">Квадратные округлые карандаш</string>
+    <string name="pref_summary_screen_lock">Бодрствовать устройства во время воспроизведения</string>
+    <string name="pref_title_allow_substring">Разрешить подстроку</string>
+    <string name="pref_title_gridsize">размер игры</string>
+    <string name="pref_title_language">язык</string>
+    <string name="pref_title_line_color">Постоянное карандаш цвета</string>
+    <string name="pref_title_num_words">Случайная количество слов</string>
+    <string name="pref_title_pencil_color">цвет карандаша</string>
+    <string name="pref_title_pencil_corner">Округлые карандаш</string>
+    <string name="pref_title_screen_lock">Бодрствовать устройств</string>
+    <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
+    <string msgid="368094699078615544" name="s1">"Сохранить изображение"</string>
+    <string msgid="4550830452390689489" name="s2">"Разрешить объявлению сохранить изображение в галерее?"</string>
+    <string msgid="2435407834265420668" name="s3">"Разрешить"</string>
+    <string msgid="9167523597401839819" name="s4">"Отклонить"</string>
+    <string msgid="1566682516266724847" name="s5">"Создать мероприятие"</string>
+    <string msgid="5996672174517137271" name="s6">"Разрешить объявлению создать мероприятие в календаре?"</string>
+    <string msgid="7163549807207034258" name="s7">"Тестовое объявление"</string>
+    <string name="settings">настройки</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">слова</string>
+</resources>

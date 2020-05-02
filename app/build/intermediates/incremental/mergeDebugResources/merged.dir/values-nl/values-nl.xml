@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Woorden Zoeken</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string name="dialog_color_picker">Kleurenkiezer</string>
+    <string name="intro_text">Welkom bij woorden zoeken spel. Het doel van het spel is om alle verborgen woorden te vinden.</string>
+    <string name="please_wait">Wacht alstublieft</string>
+    <string name="pref_summary_allow_substring">Laat woord in woord of niet</string>
+    <string name="pref_summary_gridsize">Aantal rijen en kolommen op de grid</string>
+    <string name="pref_summary_language">Selecteer taal voor woordenlijst</string>
+    <string name="pref_summary_line_color">Bepaalt of gevonden woord potlood kleur is willekeurig of gelijk</string>
+    <string name="pref_summary_num_words">Aantal willekeurige woorden te selecteren uit de database</string>
+    <string name="pref_summary_pencil_color">Verandering potlood kleur</string>
+    <string name="pref_summary_pencil_corner">Vierkante of ronde potlood</string>
+    <string name="pref_summary_screen_lock">Houd het apparaat wakker tijdens het spelen</string>
+    <string name="pref_title_allow_substring">Laat substring</string>
+    <string name="pref_title_gridsize">Spel grootte</string>
+    <string name="pref_title_language">Taal</string>
+    <string name="pref_title_line_color">Constant potlood kleur</string>
+    <string name="pref_title_num_words">Willekeurig aantal woorden</string>
+    <string name="pref_title_pencil_color">Kleurpotlood</string>
+    <string name="pref_title_pencil_corner">Afgeronde potlood</string>
+    <string name="pref_title_screen_lock">Houd het apparaat wakker</string>
+    <string name="press_color_to_apply">Druk op de kleur toe te passen</string>
+    <string msgid="368094699078615544" name="s1">"Afbeelding opslaan"</string>
+    <string msgid="4550830452390689489" name="s2">"Advertentie toestaan om afbeelding op te slaan in fotogalerij?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepteren"</string>
+    <string msgid="9167523597401839819" name="s4">"Weigeren"</string>
+    <string msgid="1566682516266724847" name="s5">"Agenda-afspraak maken"</string>
+    <string msgid="5996672174517137271" name="s6">"Advertentie toestaan om een agenda-afspraak te maken?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testadvertentie"</string>
+    <string name="settings">Instellingen</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="word_list">Praatjes</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Busqueda De Palabra</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string name="dialog_color_picker">Selector de Color</string>
+    <string name="intro_text">Bienvenido al juego de palabras de búsqueda. El objetivo del juego es encontrar todas las palabras escondidas.</string>
+    <string name="please_wait">Por favor espera</string>
+    <string name="pref_summary_allow_substring">Permitir palabra en palabra o no</string>
+    <string name="pref_summary_gridsize">Número de filas y columnas en la parrilla</string>
+    <string name="pref_summary_language">Seleccionar idioma de la lista de palabras</string>
+    <string name="pref_summary_line_color">Determina si se encuentra de color lápiz palabra es al azar o del mismo</string>
+    <string name="pref_summary_num_words">Número de palabras al azar para seleccionar la base de datos</string>
+    <string name="pref_summary_pencil_color">Cambiar el color de lápiz</string>
+    <string name="pref_summary_pencil_corner">Lápiz Square o redondeada</string>
+    <string name="pref_summary_screen_lock">Velad dispositivo mientras se reproduce</string>
+    <string name="pref_title_allow_substring">Permitir subcadena</string>
+    <string name="pref_title_gridsize">Tamaño del juego</string>
+    <string name="pref_title_language">Idioma</string>
+    <string name="pref_title_line_color">Lápiz de color constante</string>
+    <string name="pref_title_num_words">Número de palabras al azar</string>
+    <string name="pref_title_pencil_color">Color de lápiz</string>
+    <string name="pref_title_pencil_corner">lápiz redondeado</string>
+    <string name="pref_title_screen_lock">Velad dispositivo</string>
+    <string name="press_color_to_apply">Press el color a aplicar</string>
+    <string msgid="368094699078615544" name="s1">"Guardar imagen"</string>
+    <string msgid="4550830452390689489" name="s2">"¿Permitir que el anuncio almacene imágenes en la galería de imágenes?"</string>
+    <string msgid="2435407834265420668" name="s3">"Aceptar"</string>
+    <string msgid="9167523597401839819" name="s4">"Rechazar"</string>
+    <string msgid="1566682516266724847" name="s5">"Crear evento de calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"¿Permitir que el anuncio cree un evento de calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anuncio de prueba"</string>
+    <string name="settings">Ajustes</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="word_list">Palabras</string>
+</resources>
